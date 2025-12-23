@@ -12,7 +12,8 @@ published: false # false: 下書き / true: 公開
 本文です。
 
 ## 画像の貼り方
-![](/images/1_mechanics/block_diagram.png)
+# ハードウェア構成
+![](/images/chapter02_circut/block_diagram.png)
 
 ## URLの貼り方
 
